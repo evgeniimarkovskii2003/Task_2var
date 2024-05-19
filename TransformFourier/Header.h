@@ -5,7 +5,6 @@
 #include <iostream> 
 #include <cstdlib>
 #include <ctime> 
-#include <stdexcept>
 #ifndef PI 
 #define PI 3.14159265358979323846 
 #endif
