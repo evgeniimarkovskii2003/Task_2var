@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\ЯДРО\TransformFourier\main.cpp(3,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Source.cpp
+  Создание кода...
+  TransformFourier.vcxproj -> D:\ЯДРО\TransformFourier\x64\Debug\TransformFourier.exe
